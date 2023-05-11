@@ -1,0 +1,37 @@
+[3.336s] Invoking command in '/home/vs/csc2207_project_ws/src/localization': PYTHONPATH=/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization build --build-base /home/vs/csc2207_project_ws/build/localization/build install --record /home/vs/csc2207_project_ws/build/localization/install.log --install-scripts $base/lib/localization --single-version-externally-managed
+[4.284s] running egg_info
+[4.285s] creating ../../build/localization/localization.egg-info
+[4.287s] writing ../../build/localization/localization.egg-info/PKG-INFO
+[4.289s] writing dependency_links to ../../build/localization/localization.egg-info/dependency_links.txt
+[4.291s] writing entry points to ../../build/localization/localization.egg-info/entry_points.txt
+[4.291s] writing requirements to ../../build/localization/localization.egg-info/requires.txt
+[4.291s] writing top-level names to ../../build/localization/localization.egg-info/top_level.txt
+[4.296s] writing manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[4.438s] reading manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[4.449s] writing manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[4.450s] running build
+[4.450s] running build_py
+[4.451s] creating /home/vs/csc2207_project_ws/build/localization/build
+[4.455s] creating /home/vs/csc2207_project_ws/build/localization/build/lib
+[4.456s] creating /home/vs/csc2207_project_ws/build/localization/build/lib/localization
+[4.463s] copying localization/__init__.py -> /home/vs/csc2207_project_ws/build/localization/build/lib/localization
+[4.464s] copying localization/localization.py -> /home/vs/csc2207_project_ws/build/localization/build/lib/localization
+[4.466s] running install
+[4.467s] running install_lib
+[4.478s] creating /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization
+[4.482s] copying /home/vs/csc2207_project_ws/build/localization/build/lib/localization/__init__.py -> /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization
+[4.487s] copying /home/vs/csc2207_project_ws/build/localization/build/lib/localization/localization.py -> /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization
+[4.488s] byte-compiling /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization/__init__.py to __init__.cpython-38.pyc
+[4.497s] byte-compiling /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization/localization.py to localization.cpython-38.pyc
+[4.502s] running install_data
+[4.502s] creating /home/vs/csc2207_project_ws/install/localization/share/ament_index
+[4.503s] creating /home/vs/csc2207_project_ws/install/localization/share/ament_index/resource_index
+[4.506s] creating /home/vs/csc2207_project_ws/install/localization/share/ament_index/resource_index/packages
+[4.515s] copying resource/localization -> /home/vs/csc2207_project_ws/install/localization/share/ament_index/resource_index/packages
+[4.516s] copying package.xml -> /home/vs/csc2207_project_ws/install/localization/share/localization
+[4.516s] running install_egg_info
+[4.518s] Copying ../../build/localization/localization.egg-info to /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info
+[4.534s] running install_scripts
+[4.627s] Installing localization_node script to /home/vs/csc2207_project_ws/install/localization/lib/localization
+[4.629s] writing list of installed files to '/home/vs/csc2207_project_ws/build/localization/install.log'
+[4.734s] Invoked command in '/home/vs/csc2207_project_ws/src/localization' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization build --build-base /home/vs/csc2207_project_ws/build/localization/build install --record /home/vs/csc2207_project_ws/build/localization/install.log --install-scripts $base/lib/localization --single-version-externally-managed

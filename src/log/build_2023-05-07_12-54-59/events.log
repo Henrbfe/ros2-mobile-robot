@@ -1,0 +1,162 @@
+[0.000000] (-) TimerEvent: {}
+[0.005130] (-) JobUnselected: {'identifier': 'localization'}
+[0.005369] (-) JobUnselected: {'identifier': 'motion'}
+[0.005472] (warehouse_robot_spawner_pkg) JobQueued: {'identifier': 'warehouse_robot_spawner_pkg', 'dependencies': OrderedDict()}
+[0.005547] (warehouse_robot_spawner_pkg) JobStarted: {'identifier': 'warehouse_robot_spawner_pkg'}
+[0.100227] (-) TimerEvent: {}
+[0.212063] (-) TimerEvent: {}
+[0.363971] (-) TimerEvent: {}
+[0.468522] (-) TimerEvent: {}
+[0.571640] (-) TimerEvent: {}
+[0.699498] (-) TimerEvent: {}
+[0.801568] (-) TimerEvent: {}
+[0.903157] (-) TimerEvent: {}
+[1.007026] (-) TimerEvent: {}
+[1.119703] (-) TimerEvent: {}
+[1.229980] (-) TimerEvent: {}
+[1.333815] (-) TimerEvent: {}
+[1.445352] (-) TimerEvent: {}
+[1.547561] (-) TimerEvent: {}
+[1.649092] (-) TimerEvent: {}
+[1.760927] (-) TimerEvent: {}
+[1.863003] (-) TimerEvent: {}
+[1.964920] (-) TimerEvent: {}
+[2.066324] (-) TimerEvent: {}
+[2.169237] (-) TimerEvent: {}
+[2.271168] (-) TimerEvent: {}
+[2.382647] (-) TimerEvent: {}
+[2.491043] (-) TimerEvent: {}
+[2.599197] (-) TimerEvent: {}
+[2.705055] (-) TimerEvent: {}
+[2.827413] (-) TimerEvent: {}
+[2.932428] (-) TimerEvent: {}
+[3.081947] (-) TimerEvent: {}
+[3.189894] (-) TimerEvent: {}
+[3.292448] (-) TimerEvent: {}
+[3.403481] (-) TimerEvent: {}
+[3.504691] (-) TimerEvent: {}
+[3.608413] (-) TimerEvent: {}
+[3.709958] (-) TimerEvent: {}
+[3.812511] (-) TimerEvent: {}
+[3.914016] (-) TimerEvent: {}
+[4.022227] (-) TimerEvent: {}
+[4.126654] (-) TimerEvent: {}
+[4.227593] (-) TimerEvent: {}
+[4.332870] (-) TimerEvent: {}
+[4.437691] (-) TimerEvent: {}
+[4.539736] (-) TimerEvent: {}
+[4.642591] (-) TimerEvent: {}
+[4.747049] (-) TimerEvent: {}
+[4.848828] (-) TimerEvent: {}
+[4.949652] (-) TimerEvent: {}
+[5.052261] (-) TimerEvent: {}
+[5.161176] (-) TimerEvent: {}
+[5.262154] (-) TimerEvent: {}
+[5.363464] (-) TimerEvent: {}
+[5.464270] (-) TimerEvent: {}
+[5.572109] (-) TimerEvent: {}
+[5.676480] (-) TimerEvent: {}
+[5.783919] (-) TimerEvent: {}
+[5.889747] (-) TimerEvent: {}
+[5.991251] (-) TimerEvent: {}
+[6.092398] (-) TimerEvent: {}
+[6.201979] (-) TimerEvent: {}
+[6.308202] (-) TimerEvent: {}
+[6.412616] (-) TimerEvent: {}
+[6.519128] (-) TimerEvent: {}
+[6.620890] (-) TimerEvent: {}
+[6.722464] (-) TimerEvent: {}
+[6.855090] (-) TimerEvent: {}
+[6.962456] (-) TimerEvent: {}
+[7.082522] (-) TimerEvent: {}
+[7.202378] (-) TimerEvent: {}
+[7.303877] (-) TimerEvent: {}
+[7.404633] (-) TimerEvent: {}
+[7.512581] (-) TimerEvent: {}
+[7.613731] (-) TimerEvent: {}
+[7.782392] (-) TimerEvent: {}
+[7.892416] (-) TimerEvent: {}
+[7.995571] (-) TimerEvent: {}
+[8.112817] (-) TimerEvent: {}
+[8.222428] (-) TimerEvent: {}
+[8.324971] (-) TimerEvent: {}
+[8.442390] (-) TimerEvent: {}
+[8.543188] (-) TimerEvent: {}
+[8.646158] (-) TimerEvent: {}
+[8.748910] (-) TimerEvent: {}
+[8.850592] (-) TimerEvent: {}
+[8.962094] (-) TimerEvent: {}
+[9.062830] (-) TimerEvent: {}
+[9.165303] (-) TimerEvent: {}
+[9.267526] (-) TimerEvent: {}
+[9.370694] (-) TimerEvent: {}
+[9.474543] (-) TimerEvent: {}
+[9.596517] (-) TimerEvent: {}
+[9.697545] (-) TimerEvent: {}
+[9.798562] (-) TimerEvent: {}
+[9.899694] (-) TimerEvent: {}
+[10.000435] (-) TimerEvent: {}
+[10.101410] (-) TimerEvent: {}
+[10.202491] (-) TimerEvent: {}
+[10.303418] (-) TimerEvent: {}
+[10.412550] (-) TimerEvent: {}
+[10.513781] (-) TimerEvent: {}
+[10.614866] (-) TimerEvent: {}
+[10.725263] (warehouse_robot_spawner_pkg) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/warehouse_robot_spawner_pkg', 'build', '--build-base', '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build', 'install', '--record', '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log', '--install-scripts', '$base/lib/warehouse_robot_spawner_pkg', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws', 'TERM_PROGRAM_VERSION': '1.78.0', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-e6bfca08-fbad-4cec-a404-4996fcb5f50c.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'COLCON_PREFIX_PATH': '/home/vs/csc2207_project_ws/src/install', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock","/tmp/.X11-unix/X12","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-a2013720de.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', 'AMENT_PREFIX_PATH': '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg:/home/vs/csc2207_project_ws/src/install/motion:/home/vs/csc2207_project_ws/src/install/localization:/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X12', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[10.742116] (-) TimerEvent: {}
+[10.843005] (-) TimerEvent: {}
+[10.946084] (-) TimerEvent: {}
+[11.047480] (-) TimerEvent: {}
+[11.151803] (-) TimerEvent: {}
+[11.253205] (-) TimerEvent: {}
+[11.354211] (-) TimerEvent: {}
+[11.460817] (-) TimerEvent: {}
+[11.564774] (-) TimerEvent: {}
+[11.666096] (-) TimerEvent: {}
+[11.768483] (-) TimerEvent: {}
+[11.872277] (-) TimerEvent: {}
+[11.980345] (-) TimerEvent: {}
+[12.084571] (-) TimerEvent: {}
+[12.196043] (-) TimerEvent: {}
+[12.299359] (-) TimerEvent: {}
+[12.422664] (-) TimerEvent: {}
+[12.527750] (-) TimerEvent: {}
+[12.622780] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[12.645348] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/PKG-INFO\n'}
+[12.645988] (-) TimerEvent: {}
+[12.655830] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing dependency_links to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/dependency_links.txt\n'}
+[12.682434] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing entry points to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/entry_points.txt\n'}
+[12.683312] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing requirements to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/requires.txt\n'}
+[12.683717] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing top-level names to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/top_level.txt\n'}
+[12.752390] (-) TimerEvent: {}
+[12.862490] (-) TimerEvent: {}
+[12.982357] (-) TimerEvent: {}
+[13.083680] (-) TimerEvent: {}
+[13.185121] (-) TimerEvent: {}
+[13.292390] (-) TimerEvent: {}
+[13.298421] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"reading manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'\n"}
+[13.299641] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"writing manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'\n"}
+[13.299944] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running build\n'}
+[13.300160] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running build_py\n'}
+[13.300402] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install\n'}
+[13.330702] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_lib\n'}
+[13.331895] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_data\n'}
+[13.361657] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[13.369229] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[13.382717] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'Copying ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info\n'}
+[13.422769] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[13.423790] (-) TimerEvent: {}
+[13.562457] (-) TimerEvent: {}
+[13.672768] (-) TimerEvent: {}
+[13.692968] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'Installing spawn_demo script to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/warehouse_robot_spawner_pkg\n'}
+[13.722827] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log'\n"}
+[13.782913] (-) TimerEvent: {}
+[13.884036] (-) TimerEvent: {}
+[13.992487] (-) TimerEvent: {}
+[14.112452] (-) TimerEvent: {}
+[14.227758] (warehouse_robot_spawner_pkg) CommandEnded: {'returncode': 0}
+[14.230631] (-) TimerEvent: {}
+[14.349210] (-) TimerEvent: {}
+[14.441470] (warehouse_robot_spawner_pkg) JobEnded: {'identifier': 'warehouse_robot_spawner_pkg', 'rc': 0}
+[14.465934] (-) TimerEvent: {}
+[14.472539] (-) EventReactorShutdown: {}

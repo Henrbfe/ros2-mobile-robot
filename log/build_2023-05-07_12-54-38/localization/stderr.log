@@ -1,0 +1,5 @@
+  File "/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization/localization.py", line 13
+    'y' : [0.25, 0.35]
+    ^
+SyntaxError: invalid syntax
+

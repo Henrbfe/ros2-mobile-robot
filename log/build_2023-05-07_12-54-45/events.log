@@ -1,0 +1,230 @@
+[0.000000] (-) TimerEvent: {}
+[0.027024] (-) JobUnselected: {'identifier': 'localization'}
+[0.027320] (-) JobUnselected: {'identifier': 'warehouse_robot_spawner_pkg'}
+[0.027455] (motion) JobQueued: {'identifier': 'motion', 'dependencies': OrderedDict()}
+[0.027537] (motion) JobStarted: {'identifier': 'motion'}
+[0.167065] (-) TimerEvent: {}
+[0.278803] (-) TimerEvent: {}
+[0.387123] (-) TimerEvent: {}
+[0.506957] (-) TimerEvent: {}
+[0.616947] (-) TimerEvent: {}
+[0.718043] (-) TimerEvent: {}
+[0.836978] (-) TimerEvent: {}
+[0.946978] (-) TimerEvent: {}
+[1.048028] (-) TimerEvent: {}
+[1.152640] (-) TimerEvent: {}
+[1.253596] (-) TimerEvent: {}
+[1.356408] (-) TimerEvent: {}
+[1.458308] (-) TimerEvent: {}
+[1.559391] (-) TimerEvent: {}
+[1.666943] (-) TimerEvent: {}
+[1.767659] (-) TimerEvent: {}
+[1.869712] (-) TimerEvent: {}
+[1.997831] (-) TimerEvent: {}
+[2.101280] (-) TimerEvent: {}
+[2.219993] (-) TimerEvent: {}
+[2.337003] (-) TimerEvent: {}
+[2.466935] (-) TimerEvent: {}
+[2.577277] (-) TimerEvent: {}
+[2.679186] (-) TimerEvent: {}
+[2.780388] (-) TimerEvent: {}
+[2.882359] (-) TimerEvent: {}
+[2.984795] (-) TimerEvent: {}
+[3.086313] (-) TimerEvent: {}
+[3.207782] (-) TimerEvent: {}
+[3.308843] (-) TimerEvent: {}
+[3.409943] (-) TimerEvent: {}
+[3.511832] (-) TimerEvent: {}
+[3.615532] (-) TimerEvent: {}
+[3.716493] (-) TimerEvent: {}
+[3.826909] (-) TimerEvent: {}
+[3.940028] (-) TimerEvent: {}
+[4.043898] (-) TimerEvent: {}
+[4.157179] (-) TimerEvent: {}
+[4.258896] (-) TimerEvent: {}
+[4.386842] (-) TimerEvent: {}
+[4.509289] (-) TimerEvent: {}
+[4.617322] (-) TimerEvent: {}
+[4.728179] (-) TimerEvent: {}
+[4.837655] (-) TimerEvent: {}
+[4.938172] (-) TimerEvent: {}
+[5.039544] (-) TimerEvent: {}
+[5.153100] (-) TimerEvent: {}
+[5.310578] (-) TimerEvent: {}
+[5.427050] (-) TimerEvent: {}
+[5.528264] (-) TimerEvent: {}
+[5.647095] (-) TimerEvent: {}
+[5.756959] (-) TimerEvent: {}
+[5.858052] (-) TimerEvent: {}
+[5.978743] (-) TimerEvent: {}
+[6.096992] (-) TimerEvent: {}
+[6.198354] (-) TimerEvent: {}
+[6.327040] (-) TimerEvent: {}
+[6.428862] (-) TimerEvent: {}
+[6.530507] (-) TimerEvent: {}
+[6.643979] (-) TimerEvent: {}
+[6.750335] (-) TimerEvent: {}
+[6.873921] (-) TimerEvent: {}
+[6.974750] (-) TimerEvent: {}
+[7.086987] (-) TimerEvent: {}
+[7.197001] (-) TimerEvent: {}
+[7.306974] (-) TimerEvent: {}
+[7.419791] (-) TimerEvent: {}
+[7.527317] (-) TimerEvent: {}
+[7.628827] (-) TimerEvent: {}
+[7.747040] (-) TimerEvent: {}
+[7.856991] (-) TimerEvent: {}
+[7.967111] (-) TimerEvent: {}
+[8.077827] (-) TimerEvent: {}
+[8.178702] (-) TimerEvent: {}
+[8.286958] (-) TimerEvent: {}
+[8.388154] (-) TimerEvent: {}
+[8.491489] (-) TimerEvent: {}
+[8.617040] (-) TimerEvent: {}
+[8.724298] (-) TimerEvent: {}
+[8.847121] (-) TimerEvent: {}
+[8.957024] (-) TimerEvent: {}
+[9.067172] (-) TimerEvent: {}
+[9.175828] (-) TimerEvent: {}
+[9.309301] (-) TimerEvent: {}
+[9.456957] (-) TimerEvent: {}
+[9.566993] (-) TimerEvent: {}
+[9.677169] (-) TimerEvent: {}
+[9.779144] (-) TimerEvent: {}
+[9.946953] (-) TimerEvent: {}
+[10.087110] (-) TimerEvent: {}
+[10.196968] (-) TimerEvent: {}
+[10.297814] (-) TimerEvent: {}
+[10.412089] (-) TimerEvent: {}
+[10.527075] (-) TimerEvent: {}
+[10.637096] (-) TimerEvent: {}
+[10.747003] (-) TimerEvent: {}
+[10.856970] (-) TimerEvent: {}
+[10.967076] (-) TimerEvent: {}
+[11.068196] (-) TimerEvent: {}
+[11.169303] (-) TimerEvent: {}
+[11.270482] (-) TimerEvent: {}
+[11.376993] (-) TimerEvent: {}
+[11.487258] (-) TimerEvent: {}
+[11.596994] (-) TimerEvent: {}
+[11.726961] (-) TimerEvent: {}
+[11.828154] (-) TimerEvent: {}
+[11.940609] (-) TimerEvent: {}
+[12.057919] (-) TimerEvent: {}
+[12.177841] (-) TimerEvent: {}
+[12.282535] (-) TimerEvent: {}
+[12.397045] (-) TimerEvent: {}
+[12.507019] (-) TimerEvent: {}
+[12.610996] (-) TimerEvent: {}
+[12.737103] (-) TimerEvent: {}
+[12.857400] (-) TimerEvent: {}
+[12.967035] (-) TimerEvent: {}
+[13.069356] (-) TimerEvent: {}
+[13.189052] (-) TimerEvent: {}
+[13.292233] (-) TimerEvent: {}
+[13.392996] (-) TimerEvent: {}
+[13.496967] (-) TimerEvent: {}
+[13.616971] (-) TimerEvent: {}
+[13.727108] (-) TimerEvent: {}
+[13.847280] (-) TimerEvent: {}
+[13.956933] (-) TimerEvent: {}
+[14.066955] (-) TimerEvent: {}
+[14.188287] (-) TimerEvent: {}
+[14.289254] (-) TimerEvent: {}
+[14.406964] (-) TimerEvent: {}
+[14.527074] (-) TimerEvent: {}
+[14.630196] (-) TimerEvent: {}
+[14.731297] (-) TimerEvent: {}
+[14.846974] (-) TimerEvent: {}
+[14.948139] (-) TimerEvent: {}
+[15.057029] (-) TimerEvent: {}
+[15.187788] (motion) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/motion', 'build', '--build-base', '/home/vs/csc2207_project_ws/build/motion/build', 'install', '--record', '/home/vs/csc2207_project_ws/build/motion/install.log', '--install-scripts', '$base/lib/motion', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/motion', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws/src', 'TERM_PROGRAM_VERSION': '1.78.0', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-2f6843af-b5bf-45cf-93c1-e766015cbee9.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'COLCON_PREFIX_PATH': '/home/vs/csc2207_project_ws/install', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock","/tmp/.X11-unix/X12","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-a2013720de.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', 'AMENT_PREFIX_PATH': '/home/vs/csc2207_project_ws/install/warehouse_robot_spawner_pkg:/home/vs/csc2207_project_ws/install/motion:/home/vs/csc2207_project_ws/install/localization:/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X12', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/build/motion', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/build/motion/prefix_override:/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[15.195257] (-) TimerEvent: {}
+[15.307017] (-) TimerEvent: {}
+[15.410200] (-) TimerEvent: {}
+[15.516990] (-) TimerEvent: {}
+[15.657630] (-) TimerEvent: {}
+[15.759115] (-) TimerEvent: {}
+[15.877023] (-) TimerEvent: {}
+[15.987051] (-) TimerEvent: {}
+[16.122651] (-) TimerEvent: {}
+[16.224094] (-) TimerEvent: {}
+[16.329703] (-) TimerEvent: {}
+[16.441167] (-) TimerEvent: {}
+[16.544283] (-) TimerEvent: {}
+[16.647405] (-) TimerEvent: {}
+[16.763093] (-) TimerEvent: {}
+[16.867525] (-) TimerEvent: {}
+[16.992662] (-) TimerEvent: {}
+[17.095758] (-) TimerEvent: {}
+[17.245665] (-) TimerEvent: {}
+[17.347824] (-) TimerEvent: {}
+[17.461290] (-) TimerEvent: {}
+[17.573677] (-) TimerEvent: {}
+[17.679941] (-) TimerEvent: {}
+[17.781253] (-) TimerEvent: {}
+[17.882706] (-) TimerEvent: {}
+[17.986174] (-) TimerEvent: {}
+[18.088368] (-) TimerEvent: {}
+[18.194084] (-) TimerEvent: {}
+[18.309184] (-) TimerEvent: {}
+[18.410412] (-) TimerEvent: {}
+[18.514606] (-) TimerEvent: {}
+[18.643134] (-) TimerEvent: {}
+[18.751151] (-) TimerEvent: {}
+[18.854335] (-) TimerEvent: {}
+[18.960243] (-) TimerEvent: {}
+[19.092886] (-) TimerEvent: {}
+[19.194541] (-) TimerEvent: {}
+[19.295643] (-) TimerEvent: {}
+[19.396837] (-) TimerEvent: {}
+[19.501818] (-) TimerEvent: {}
+[19.603663] (-) TimerEvent: {}
+[19.704839] (-) TimerEvent: {}
+[19.806706] (-) TimerEvent: {}
+[19.915102] (-) TimerEvent: {}
+[19.982124] (motion) StdoutLine: {'line': b'running egg_info\n'}
+[19.984653] (motion) StdoutLine: {'line': b'writing ../../build/motion/motion.egg-info/PKG-INFO\n'}
+[19.985630] (motion) StdoutLine: {'line': b'writing dependency_links to ../../build/motion/motion.egg-info/dependency_links.txt\n'}
+[19.996641] (motion) StdoutLine: {'line': b'writing entry points to ../../build/motion/motion.egg-info/entry_points.txt\n'}
+[19.997187] (motion) StdoutLine: {'line': b'writing requirements to ../../build/motion/motion.egg-info/requires.txt\n'}
+[19.997433] (motion) StdoutLine: {'line': b'writing top-level names to ../../build/motion/motion.egg-info/top_level.txt\n'}
+[20.026728] (-) TimerEvent: {}
+[20.127964] (-) TimerEvent: {}
+[20.228942] (-) TimerEvent: {}
+[20.340423] (-) TimerEvent: {}
+[20.443113] (-) TimerEvent: {}
+[20.546146] (-) TimerEvent: {}
+[20.657354] (motion) StdoutLine: {'line': b"reading manifest file '../../build/motion/motion.egg-info/SOURCES.txt'\n"}
+[20.657994] (-) TimerEvent: {}
+[20.661679] (motion) StdoutLine: {'line': b"writing manifest file '../../build/motion/motion.egg-info/SOURCES.txt'\n"}
+[20.662278] (motion) StdoutLine: {'line': b'running build\n'}
+[20.662544] (motion) StdoutLine: {'line': b'running build_py\n'}
+[20.699757] (motion) StdoutLine: {'line': b'copying motion/motion.py -> /home/vs/csc2207_project_ws/build/motion/build/lib/motion\n'}
+[20.715659] (motion) StdoutLine: {'line': b'running install\n'}
+[20.716379] (motion) StdoutLine: {'line': b'running install_lib\n'}
+[20.757313] (motion) StdoutLine: {'line': b'copying /home/vs/csc2207_project_ws/build/motion/build/lib/motion/motion.py -> /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion\n'}
+[20.758005] (-) TimerEvent: {}
+[20.772360] (motion) StdoutLine: {'line': b'byte-compiling /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion/motion.py to motion.cpython-38.pyc\n'}
+[20.807115] (motion) StdoutLine: {'line': b'running install_data\n'}
+[20.810119] (motion) StdoutLine: {'line': b'running install_egg_info\n'}
+[20.838149] (motion) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[20.841539] (motion) StdoutLine: {'line': b'Copying ../../build/motion/motion.egg-info to /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info\n'}
+[20.864806] (motion) StdoutLine: {'line': b'running install_scripts\n'}
+[20.865532] (-) TimerEvent: {}
+[20.972698] (-) TimerEvent: {}
+[21.107068] (-) TimerEvent: {}
+[21.216971] (-) TimerEvent: {}
+[21.254294] (motion) StdoutLine: {'line': b'Installing motion_node script to /home/vs/csc2207_project_ws/install/motion/lib/motion\n'}
+[21.255994] (motion) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/build/motion/install.log'\n"}
+[21.330106] (-) TimerEvent: {}
+[21.443725] (-) TimerEvent: {}
+[21.545104] (-) TimerEvent: {}
+[21.647591] (-) TimerEvent: {}
+[21.754868] (-) TimerEvent: {}
+[21.827095] (motion) CommandEnded: {'returncode': 0}
+[21.867090] (-) TimerEvent: {}
+[22.047062] (-) TimerEvent: {}
+[22.257044] (-) TimerEvent: {}
+[22.317655] (motion) JobEnded: {'identifier': 'motion', 'rc': 0}
+[22.322488] (-) EventReactorShutdown: {}

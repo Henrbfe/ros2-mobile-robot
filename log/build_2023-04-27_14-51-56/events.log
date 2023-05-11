@@ -1,0 +1,65 @@
+[0.000000] (-) TimerEvent: {}
+[0.001990] (-) JobUnselected: {'identifier': 'warehouse_robot_spawner_pkg'}
+[0.003235] (motion) JobQueued: {'identifier': 'motion', 'dependencies': OrderedDict()}
+[0.006615] (motion) JobStarted: {'identifier': 'motion'}
+[0.096545] (-) TimerEvent: {}
+[0.198286] (-) TimerEvent: {}
+[0.299362] (-) TimerEvent: {}
+[0.400150] (-) TimerEvent: {}
+[0.501035] (-) TimerEvent: {}
+[0.601758] (-) TimerEvent: {}
+[0.702597] (-) TimerEvent: {}
+[0.803255] (-) TimerEvent: {}
+[0.903945] (-) TimerEvent: {}
+[1.004576] (-) TimerEvent: {}
+[1.105296] (-) TimerEvent: {}
+[1.207033] (-) TimerEvent: {}
+[1.311458] (-) TimerEvent: {}
+[1.412352] (-) TimerEvent: {}
+[1.513096] (-) TimerEvent: {}
+[1.613835] (-) TimerEvent: {}
+[1.714408] (-) TimerEvent: {}
+[1.814938] (-) TimerEvent: {}
+[1.915554] (-) TimerEvent: {}
+[2.016163] (-) TimerEvent: {}
+[2.116759] (-) TimerEvent: {}
+[2.217437] (-) TimerEvent: {}
+[2.317995] (-) TimerEvent: {}
+[2.418561] (-) TimerEvent: {}
+[2.494913] (motion) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/motion', 'build', '--build-base', '/home/vs/csc2207_project_ws/build/motion/build', 'install', '--record', '/home/vs/csc2207_project_ws/build/motion/install.log', '--install-scripts', '$base/lib/motion', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/motion', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws/src', 'TERM_PROGRAM_VERSION': '1.77.3', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-f02f76a8-162f-446f-ae01-75ef5bd0e6a2.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'COLCON_PREFIX_PATH': '/home/vs/csc2207_project_ws/install:/home/vs/ws/install', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-cf237bb4-8c1a-44c1-a2a4-7a5758c25753.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-cf237bb4-8c1a-44c1-a2a4-7a5758c25753.sock","/tmp/.X11-unix/X7","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-6e7e04c809.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-cf237bb4-8c1a-44c1-a2a4-7a5758c25753.sock', 'AMENT_PREFIX_PATH': '/home/vs/csc2207_project_ws/install/warehouse_robot_spawner_pkg:/home/vs/csc2207_project_ws/install/motion:/home/vs/ws/install/ros2_demo_py:/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X7', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/build/motion', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/build/motion/prefix_override:/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages:/home/vs/ws/build/ros2_demo_py:/home/vs/ws/install/ros2_demo_py/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[2.518768] (-) TimerEvent: {}
+[2.619534] (-) TimerEvent: {}
+[2.720099] (-) TimerEvent: {}
+[2.820690] (-) TimerEvent: {}
+[2.921463] (-) TimerEvent: {}
+[3.022127] (-) TimerEvent: {}
+[3.123024] (-) TimerEvent: {}
+[3.223706] (-) TimerEvent: {}
+[3.234059] (motion) StdoutLine: {'line': b'running egg_info\n'}
+[3.237385] (motion) StdoutLine: {'line': b'writing ../../build/motion/motion.egg-info/PKG-INFO\n'}
+[3.238614] (motion) StdoutLine: {'line': b'writing dependency_links to ../../build/motion/motion.egg-info/dependency_links.txt\n'}
+[3.241456] (motion) StdoutLine: {'line': b'writing entry points to ../../build/motion/motion.egg-info/entry_points.txt\n'}
+[3.242410] (motion) StdoutLine: {'line': b'writing requirements to ../../build/motion/motion.egg-info/requires.txt\n'}
+[3.243193] (motion) StdoutLine: {'line': b'writing top-level names to ../../build/motion/motion.egg-info/top_level.txt\n'}
+[3.323896] (-) TimerEvent: {}
+[3.381612] (motion) StdoutLine: {'line': b"reading manifest file '../../build/motion/motion.egg-info/SOURCES.txt'\n"}
+[3.385212] (motion) StdoutLine: {'line': b"writing manifest file '../../build/motion/motion.egg-info/SOURCES.txt'\n"}
+[3.387427] (motion) StdoutLine: {'line': b'running build\n'}
+[3.390496] (motion) StdoutLine: {'line': b'running build_py\n'}
+[3.392579] (motion) StdoutLine: {'line': b'copying motion/motion.py -> /home/vs/csc2207_project_ws/build/motion/build/lib/motion\n'}
+[3.393068] (motion) StdoutLine: {'line': b'running install\n'}
+[3.395962] (motion) StdoutLine: {'line': b'running install_lib\n'}
+[3.397494] (motion) StdoutLine: {'line': b'copying /home/vs/csc2207_project_ws/build/motion/build/lib/motion/motion.py -> /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion\n'}
+[3.403479] (motion) StdoutLine: {'line': b'byte-compiling /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion/motion.py to motion.cpython-38.pyc\n'}
+[3.403919] (motion) StdoutLine: {'line': b'running install_data\n'}
+[3.407944] (motion) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.411530] (motion) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[3.413240] (motion) StdoutLine: {'line': b'Copying ../../build/motion/motion.egg-info to /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info\n'}
+[3.417480] (motion) StdoutLine: {'line': b'running install_scripts\n'}
+[3.424091] (-) TimerEvent: {}
+[3.466600] (motion) StdoutLine: {'line': b'Installing motion_node script to /home/vs/csc2207_project_ws/install/motion/lib/motion\n'}
+[3.468121] (motion) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/build/motion/install.log'\n"}
+[3.516288] (motion) CommandEnded: {'returncode': 0}
+[3.524555] (-) TimerEvent: {}
+[3.566807] (motion) JobEnded: {'identifier': 'motion', 'rc': 0}
+[3.569636] (-) EventReactorShutdown: {}

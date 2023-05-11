@@ -1,0 +1,50 @@
+[0.000000] (-) TimerEvent: {}
+[0.002017] (-) JobUnselected: {'identifier': 'motion'}
+[0.002305] (-) JobUnselected: {'identifier': 'warehouse_robot_spawner_pkg'}
+[0.003606] (localization) JobQueued: {'identifier': 'localization', 'dependencies': OrderedDict()}
+[0.004980] (localization) JobStarted: {'identifier': 'localization'}
+[0.099010] (-) TimerEvent: {}
+[0.199773] (-) TimerEvent: {}
+[0.300794] (-) TimerEvent: {}
+[0.401324] (-) TimerEvent: {}
+[0.501836] (-) TimerEvent: {}
+[0.602481] (-) TimerEvent: {}
+[0.703011] (-) TimerEvent: {}
+[0.803543] (-) TimerEvent: {}
+[0.904046] (-) TimerEvent: {}
+[1.004519] (-) TimerEvent: {}
+[1.105047] (-) TimerEvent: {}
+[1.205609] (-) TimerEvent: {}
+[1.282668] (localization) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/localization', 'build', '--build-base', '/home/vs/csc2207_project_ws/build/localization/build', 'install', '--record', '/home/vs/csc2207_project_ws/build/localization/install.log', '--install-scripts', '$base/lib/localization', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/localization', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws/src', 'TERM_PROGRAM_VERSION': '1.77.3', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-496841c4-fad5-4d15-8e89-68b50d58fd68.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'COLCON_PREFIX_PATH': '/home/vs/csc2207_project_ws/src/install', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-5f4fbcf1-d025-405a-894d-6d8ac6c1e348.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-5f4fbcf1-d025-405a-894d-6d8ac6c1e348.sock","/tmp/.X11-unix/X10","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-dca84eba2f.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-5f4fbcf1-d025-405a-894d-6d8ac6c1e348.sock', 'AMENT_PREFIX_PATH': '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg:/home/vs/csc2207_project_ws/src/install/motion:/home/vs/csc2207_project_ws/src/install/localization:/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X10', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/build/localization', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages:/home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[1.305799] (-) TimerEvent: {}
+[1.406294] (-) TimerEvent: {}
+[1.506749] (-) TimerEvent: {}
+[1.607305] (-) TimerEvent: {}
+[1.707304] (localization) StdoutLine: {'line': b'running egg_info\n'}
+[1.707706] (-) TimerEvent: {}
+[1.708377] (localization) StdoutLine: {'line': b'writing ../../build/localization/localization.egg-info/PKG-INFO\n'}
+[1.708813] (localization) StdoutLine: {'line': b'writing dependency_links to ../../build/localization/localization.egg-info/dependency_links.txt\n'}
+[1.709309] (localization) StdoutLine: {'line': b'writing entry points to ../../build/localization/localization.egg-info/entry_points.txt\n'}
+[1.709786] (localization) StdoutLine: {'line': b'writing requirements to ../../build/localization/localization.egg-info/requires.txt\n'}
+[1.710004] (localization) StdoutLine: {'line': b'writing top-level names to ../../build/localization/localization.egg-info/top_level.txt\n'}
+[1.777436] (localization) StdoutLine: {'line': b"reading manifest file '../../build/localization/localization.egg-info/SOURCES.txt'\n"}
+[1.782369] (localization) StdoutLine: {'line': b"writing manifest file '../../build/localization/localization.egg-info/SOURCES.txt'\n"}
+[1.783024] (localization) StdoutLine: {'line': b'running build\n'}
+[1.783402] (localization) StdoutLine: {'line': b'running build_py\n'}
+[1.783643] (localization) StdoutLine: {'line': b'copying localization/localization.py -> /home/vs/csc2207_project_ws/build/localization/build/lib/localization\n'}
+[1.783938] (localization) StdoutLine: {'line': b'running install\n'}
+[1.785454] (localization) StdoutLine: {'line': b'running install_lib\n'}
+[1.787266] (localization) StdoutLine: {'line': b'copying /home/vs/csc2207_project_ws/build/localization/build/lib/localization/localization.py -> /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization\n'}
+[1.788700] (localization) StdoutLine: {'line': b'byte-compiling /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization/localization.py to localization.cpython-38.pyc\n'}
+[1.792031] (localization) StdoutLine: {'line': b'running install_data\n'}
+[1.793389] (localization) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.796728] (localization) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[1.798065] (localization) StdoutLine: {'line': b'Copying ../../build/localization/localization.egg-info to /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info\n'}
+[1.801218] (localization) StdoutLine: {'line': b'running install_scripts\n'}
+[1.807871] (-) TimerEvent: {}
+[1.834163] (localization) StdoutLine: {'line': b'Installing localization_node script to /home/vs/csc2207_project_ws/install/localization/lib/localization\n'}
+[1.834855] (localization) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/build/localization/install.log'\n"}
+[1.877242] (localization) CommandEnded: {'returncode': 0}
+[1.908271] (-) TimerEvent: {}
+[1.910195] (localization) JobEnded: {'identifier': 'localization', 'rc': 0}
+[1.912592] (-) EventReactorShutdown: {}

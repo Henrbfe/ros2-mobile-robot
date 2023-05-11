@@ -1,0 +1,21 @@
+[1.526s] Invoking command in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/warehouse_robot_spawner_pkg build --build-base /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build install --record /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log --install-scripts $base/lib/warehouse_robot_spawner_pkg --single-version-externally-managed
+[1.872s] running egg_info
+[1.873s] writing ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/PKG-INFO
+[1.873s] writing dependency_links to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/dependency_links.txt
+[1.874s] writing entry points to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/entry_points.txt
+[1.875s] writing requirements to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/requires.txt
+[1.875s] writing top-level names to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/top_level.txt
+[1.942s] reading manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+[1.945s] writing manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+[1.945s] running build
+[1.946s] running build_py
+[1.946s] running install
+[1.947s] running install_lib
+[1.950s] running install_data
+[1.951s] running install_egg_info
+[1.954s] removing '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.955s] Copying ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info
+[1.958s] running install_scripts
+[1.985s] Installing spawn_demo script to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/warehouse_robot_spawner_pkg
+[1.986s] writing list of installed files to '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log'
+[2.022s] Invoked command in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/warehouse_robot_spawner_pkg build --build-base /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build install --record /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log --install-scripts $base/lib/warehouse_robot_spawner_pkg --single-version-externally-managed

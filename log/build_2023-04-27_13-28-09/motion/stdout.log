@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/motion/motion.egg-info/PKG-INFO
+writing dependency_links to ../../build/motion/motion.egg-info/dependency_links.txt
+writing entry points to ../../build/motion/motion.egg-info/entry_points.txt
+writing requirements to ../../build/motion/motion.egg-info/requires.txt
+writing top-level names to ../../build/motion/motion.egg-info/top_level.txt
+reading manifest file '../../build/motion/motion.egg-info/SOURCES.txt'
+writing manifest file '../../build/motion/motion.egg-info/SOURCES.txt'
+running build
+running build_py
+copying motion/motion.py -> /home/vs/csc2207_project_ws/build/motion/build/lib/motion
+running install
+running install_lib
+copying /home/vs/csc2207_project_ws/build/motion/build/lib/motion/motion.py -> /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion
+byte-compiling /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion/motion.py to motion.cpython-38.pyc
+running install_data
+copying package.xml -> /home/vs/csc2207_project_ws/install/motion/share/motion
+running install_egg_info
+removing '/home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/motion/motion.egg-info to /home/vs/csc2207_project_ws/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/vs/csc2207_project_ws/build/motion/install.log'

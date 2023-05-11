@@ -1,0 +1,49 @@
+[3.731s] Invoking command in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/warehouse_robot_spawner_pkg build --build-base /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build install --record /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log --install-scripts $base/lib/warehouse_robot_spawner_pkg --single-version-externally-managed
+[4.785s] running egg_info
+[4.791s] creating ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info
+[4.799s] writing ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/PKG-INFO
+[4.799s] writing dependency_links to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/dependency_links.txt
+[4.801s] writing entry points to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/entry_points.txt
+[4.802s] writing requirements to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/requires.txt
+[4.802s] writing top-level names to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/top_level.txt
+[4.815s] writing manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+[4.979s] reading manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+[4.980s] writing manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+[4.981s] running build
+[4.988s] running build_py
+[4.989s] creating /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build
+[4.990s] creating /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build/lib
+[4.992s] creating /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg
+[4.995s] copying warehouse_robot_spawner_pkg/__init__.py -> /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg
+[4.995s] copying warehouse_robot_spawner_pkg/spawn_demo.py -> /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg
+[4.996s] running install
+[5.001s] running install_lib
+[5.005s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg
+[5.008s] copying /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg/__init__.py -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg
+[5.009s] copying /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg/spawn_demo.py -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg
+[5.016s] byte-compiling /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg/__init__.py to __init__.cpython-38.pyc
+[5.032s] byte-compiling /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg/spawn_demo.py to spawn_demo.cpython-38.pyc
+[5.032s] running install_data
+[5.033s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/ament_index
+[5.033s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/ament_index/resource_index
+[5.033s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/ament_index/resource_index/packages
+[5.036s] copying resource/warehouse_robot_spawner_pkg -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/ament_index/resource_index/packages
+[5.037s] copying package.xml -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg
+[5.038s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/launch
+[5.039s] copying launch/gazebo_world.launch.py -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/launch
+[5.042s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/worlds
+[5.043s] copying ./worlds/warehouse.world -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/worlds/
+[5.044s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models
+[5.046s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/simple_contained_space
+[5.048s] copying ./models/simple_contained_space/model.config -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/simple_contained_space/
+[5.050s] copying ./models/simple_contained_space/model.sdf -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/simple_contained_space/
+[5.050s] creating /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/mobile_warehouse_robot
+[5.051s] copying ./models/mobile_warehouse_robot/model.config -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/mobile_warehouse_robot/
+[5.055s] copying ./models/mobile_warehouse_robot/model.sdf -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/mobile_warehouse_robot/
+[5.059s] copying ./worlds/warehouse.world -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/
+[5.059s] running install_egg_info
+[5.064s] Copying ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info
+[5.070s] running install_scripts
+[5.151s] Installing spawn_demo script to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/warehouse_robot_spawner_pkg
+[5.153s] writing list of installed files to '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log'
+[5.252s] Invoked command in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/warehouse_robot_spawner_pkg build --build-base /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build install --record /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log --install-scripts $base/lib/warehouse_robot_spawner_pkg --single-version-externally-managed

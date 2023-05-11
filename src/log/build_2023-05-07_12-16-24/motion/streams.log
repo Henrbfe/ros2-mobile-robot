@@ -1,0 +1,21 @@
+[19.115s] Invoking command in '/home/vs/csc2207_project_ws/src/motion': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/motion/prefix_override:/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/motion build --build-base /home/vs/csc2207_project_ws/src/build/motion/build install --record /home/vs/csc2207_project_ws/src/build/motion/install.log --install-scripts $base/lib/motion --single-version-externally-managed
+[25.001s] running egg_info
+[25.046s] writing ../build/motion/motion.egg-info/PKG-INFO
+[25.070s] writing dependency_links to ../build/motion/motion.egg-info/dependency_links.txt
+[25.073s] writing entry points to ../build/motion/motion.egg-info/entry_points.txt
+[25.098s] writing requirements to ../build/motion/motion.egg-info/requires.txt
+[25.101s] writing top-level names to ../build/motion/motion.egg-info/top_level.txt
+[25.855s] reading manifest file '../build/motion/motion.egg-info/SOURCES.txt'
+[25.879s] writing manifest file '../build/motion/motion.egg-info/SOURCES.txt'
+[25.937s] running build
+[25.937s] running build_py
+[25.945s] running install
+[25.946s] running install_lib
+[26.019s] running install_data
+[26.019s] running install_egg_info
+[26.036s] removing '/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info' (and everything under it)
+[26.068s] Copying ../build/motion/motion.egg-info to /home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info
+[26.138s] running install_scripts
+[26.569s] Installing motion_node script to /home/vs/csc2207_project_ws/src/install/motion/lib/motion
+[26.570s] writing list of installed files to '/home/vs/csc2207_project_ws/src/build/motion/install.log'
+[27.184s] Invoked command in '/home/vs/csc2207_project_ws/src/motion' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/motion/prefix_override:/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/motion build --build-base /home/vs/csc2207_project_ws/src/build/motion/build install --record /home/vs/csc2207_project_ws/src/build/motion/install.log --install-scripts $base/lib/motion --single-version-externally-managed

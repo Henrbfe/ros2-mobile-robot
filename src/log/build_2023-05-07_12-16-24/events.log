@@ -1,0 +1,332 @@
+[0.000000] (-) TimerEvent: {}
+[0.001963] (localization) JobQueued: {'identifier': 'localization', 'dependencies': OrderedDict()}
+[0.002591] (motion) JobQueued: {'identifier': 'motion', 'dependencies': OrderedDict()}
+[0.003002] (warehouse_robot_spawner_pkg) JobQueued: {'identifier': 'warehouse_robot_spawner_pkg', 'dependencies': OrderedDict()}
+[0.003332] (localization) JobStarted: {'identifier': 'localization'}
+[0.092798] (-) TimerEvent: {}
+[0.196928] (-) TimerEvent: {}
+[0.299398] (-) TimerEvent: {}
+[0.385874] (motion) JobStarted: {'identifier': 'motion'}
+[0.434832] (-) TimerEvent: {}
+[0.567506] (-) TimerEvent: {}
+[0.684849] (warehouse_robot_spawner_pkg) JobStarted: {'identifier': 'warehouse_robot_spawner_pkg'}
+[0.685592] (-) TimerEvent: {}
+[0.794907] (-) TimerEvent: {}
+[0.904774] (-) TimerEvent: {}
+[1.022354] (-) TimerEvent: {}
+[1.134009] (-) TimerEvent: {}
+[1.244684] (-) TimerEvent: {}
+[1.354633] (-) TimerEvent: {}
+[1.455582] (-) TimerEvent: {}
+[1.564672] (-) TimerEvent: {}
+[1.666092] (-) TimerEvent: {}
+[1.767019] (-) TimerEvent: {}
+[1.868138] (-) TimerEvent: {}
+[1.974614] (-) TimerEvent: {}
+[2.075630] (-) TimerEvent: {}
+[2.176820] (-) TimerEvent: {}
+[2.277902] (-) TimerEvent: {}
+[2.378998] (-) TimerEvent: {}
+[2.480049] (-) TimerEvent: {}
+[2.594678] (-) TimerEvent: {}
+[2.695717] (-) TimerEvent: {}
+[2.796816] (-) TimerEvent: {}
+[2.898100] (-) TimerEvent: {}
+[3.016492] (-) TimerEvent: {}
+[3.118526] (-) TimerEvent: {}
+[3.219251] (-) TimerEvent: {}
+[3.320032] (-) TimerEvent: {}
+[3.421647] (-) TimerEvent: {}
+[3.522539] (-) TimerEvent: {}
+[3.632426] (-) TimerEvent: {}
+[3.733983] (-) TimerEvent: {}
+[3.834883] (-) TimerEvent: {}
+[3.935908] (-) TimerEvent: {}
+[4.054824] (-) TimerEvent: {}
+[4.158567] (-) TimerEvent: {}
+[4.260455] (-) TimerEvent: {}
+[4.364109] (-) TimerEvent: {}
+[4.465182] (-) TimerEvent: {}
+[4.566294] (-) TimerEvent: {}
+[4.667153] (-) TimerEvent: {}
+[4.769904] (-) TimerEvent: {}
+[4.871117] (-) TimerEvent: {}
+[4.984616] (-) TimerEvent: {}
+[5.085980] (-) TimerEvent: {}
+[5.192081] (-) TimerEvent: {}
+[5.304868] (-) TimerEvent: {}
+[5.406366] (-) TimerEvent: {}
+[5.507740] (-) TimerEvent: {}
+[5.608686] (-) TimerEvent: {}
+[5.709444] (-) TimerEvent: {}
+[5.814616] (-) TimerEvent: {}
+[5.915628] (-) TimerEvent: {}
+[6.016782] (-) TimerEvent: {}
+[6.118361] (-) TimerEvent: {}
+[6.234570] (-) TimerEvent: {}
+[6.344676] (-) TimerEvent: {}
+[6.445742] (-) TimerEvent: {}
+[6.546641] (-) TimerEvent: {}
+[6.647555] (-) TimerEvent: {}
+[6.748720] (-) TimerEvent: {}
+[6.854720] (-) TimerEvent: {}
+[6.965215] (-) TimerEvent: {}
+[7.110950] (-) TimerEvent: {}
+[7.247364] (-) TimerEvent: {}
+[7.364667] (-) TimerEvent: {}
+[7.468516] (-) TimerEvent: {}
+[7.574705] (-) TimerEvent: {}
+[7.687672] (-) TimerEvent: {}
+[7.793036] (-) TimerEvent: {}
+[7.914841] (-) TimerEvent: {}
+[8.026118] (-) TimerEvent: {}
+[8.158866] (-) TimerEvent: {}
+[8.263047] (-) TimerEvent: {}
+[8.382219] (-) TimerEvent: {}
+[8.487127] (-) TimerEvent: {}
+[8.589551] (-) TimerEvent: {}
+[8.695736] (-) TimerEvent: {}
+[8.797315] (-) TimerEvent: {}
+[8.900738] (-) TimerEvent: {}
+[9.002106] (-) TimerEvent: {}
+[9.103546] (-) TimerEvent: {}
+[9.212345] (-) TimerEvent: {}
+[9.316720] (-) TimerEvent: {}
+[9.418272] (-) TimerEvent: {}
+[9.522949] (-) TimerEvent: {}
+[9.626152] (-) TimerEvent: {}
+[9.731646] (-) TimerEvent: {}
+[9.833438] (-) TimerEvent: {}
+[9.934934] (-) TimerEvent: {}
+[10.037858] (-) TimerEvent: {}
+[10.141102] (-) TimerEvent: {}
+[10.258440] (-) TimerEvent: {}
+[10.361919] (-) TimerEvent: {}
+[10.464477] (-) TimerEvent: {}
+[10.577307] (-) TimerEvent: {}
+[10.689968] (-) TimerEvent: {}
+[10.791696] (-) TimerEvent: {}
+[10.893280] (-) TimerEvent: {}
+[11.004937] (-) TimerEvent: {}
+[11.118739] (-) TimerEvent: {}
+[11.231320] (-) TimerEvent: {}
+[11.355735] (-) TimerEvent: {}
+[11.467256] (-) TimerEvent: {}
+[11.584649] (-) TimerEvent: {}
+[11.691380] (-) TimerEvent: {}
+[11.793875] (-) TimerEvent: {}
+[11.896507] (-) TimerEvent: {}
+[12.004600] (-) TimerEvent: {}
+[12.110315] (-) TimerEvent: {}
+[12.221981] (-) TimerEvent: {}
+[12.323483] (-) TimerEvent: {}
+[12.444631] (-) TimerEvent: {}
+[12.554599] (-) TimerEvent: {}
+[12.664578] (-) TimerEvent: {}
+[12.774557] (-) TimerEvent: {}
+[12.876077] (-) TimerEvent: {}
+[12.984639] (-) TimerEvent: {}
+[13.085716] (-) TimerEvent: {}
+[13.200439] (-) TimerEvent: {}
+[13.303095] (-) TimerEvent: {}
+[13.416051] (-) TimerEvent: {}
+[13.534659] (-) TimerEvent: {}
+[13.654652] (-) TimerEvent: {}
+[13.759127] (-) TimerEvent: {}
+[13.884601] (-) TimerEvent: {}
+[13.998012] (-) TimerEvent: {}
+[14.099844] (-) TimerEvent: {}
+[14.214805] (-) TimerEvent: {}
+[14.344631] (-) TimerEvent: {}
+[14.454815] (-) TimerEvent: {}
+[14.564620] (-) TimerEvent: {}
+[14.674610] (-) TimerEvent: {}
+[14.784905] (-) TimerEvent: {}
+[14.924625] (-) TimerEvent: {}
+[15.044880] (-) TimerEvent: {}
+[15.174822] (-) TimerEvent: {}
+[15.279314] (-) TimerEvent: {}
+[15.384755] (-) TimerEvent: {}
+[15.494601] (-) TimerEvent: {}
+[15.604671] (-) TimerEvent: {}
+[15.714623] (-) TimerEvent: {}
+[15.824621] (-) TimerEvent: {}
+[15.934643] (-) TimerEvent: {}
+[16.054716] (-) TimerEvent: {}
+[16.174658] (-) TimerEvent: {}
+[16.284605] (-) TimerEvent: {}
+[16.394760] (-) TimerEvent: {}
+[16.504598] (-) TimerEvent: {}
+[16.614607] (-) TimerEvent: {}
+[16.735778] (-) TimerEvent: {}
+[16.840088] (-) TimerEvent: {}
+[16.954750] (-) TimerEvent: {}
+[17.074662] (-) TimerEvent: {}
+[17.176088] (-) TimerEvent: {}
+[17.277336] (-) TimerEvent: {}
+[17.384609] (-) TimerEvent: {}
+[17.494583] (-) TimerEvent: {}
+[17.604625] (-) TimerEvent: {}
+[17.714579] (-) TimerEvent: {}
+[17.815347] (-) TimerEvent: {}
+[17.924588] (-) TimerEvent: {}
+[18.034584] (-) TimerEvent: {}
+[18.144689] (-) TimerEvent: {}
+[18.254665] (-) TimerEvent: {}
+[18.364662] (-) TimerEvent: {}
+[18.474674] (-) TimerEvent: {}
+[18.584694] (-) TimerEvent: {}
+[18.698224] (-) TimerEvent: {}
+[18.808928] (-) TimerEvent: {}
+[18.911323] (-) TimerEvent: {}
+[19.012699] (-) TimerEvent: {}
+[19.114809] (-) TimerEvent: {}
+[19.219307] (-) TimerEvent: {}
+[19.271727] (warehouse_robot_spawner_pkg) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/warehouse_robot_spawner_pkg', 'build', '--build-base', '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build', 'install', '--record', '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log', '--install-scripts', '$base/lib/warehouse_robot_spawner_pkg', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws', 'TERM_PROGRAM_VERSION': '1.78.0', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-e6bfca08-fbad-4cec-a404-4996fcb5f50c.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock","/tmp/.X11-unix/X12","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-a2013720de.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X12', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[19.324752] (-) TimerEvent: {}
+[19.434942] (-) TimerEvent: {}
+[19.496514] (motion) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/motion', 'build', '--build-base', '/home/vs/csc2207_project_ws/src/build/motion/build', 'install', '--record', '/home/vs/csc2207_project_ws/src/build/motion/install.log', '--install-scripts', '$base/lib/motion', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/motion', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws', 'TERM_PROGRAM_VERSION': '1.78.0', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-e6bfca08-fbad-4cec-a404-4996fcb5f50c.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock","/tmp/.X11-unix/X12","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-a2013720de.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X12', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/src/build/motion', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/src/build/motion/prefix_override:/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[19.535706] (-) TimerEvent: {}
+[19.611158] (localization) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/localization', 'build', '--build-base', '/home/vs/csc2207_project_ws/src/build/localization/build', 'install', '--record', '/home/vs/csc2207_project_ws/src/build/localization/install.log', '--install-scripts', '$base/lib/localization', '--single-version-externally-managed'], 'cwd': '/home/vs/csc2207_project_ws/src/localization', 'env': {'HOSTNAME': 'box', 'GIT_ASKPASS': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'BROWSER': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/helpers/browser.sh', 'HOME': '/home/vs', 'OLDPWD': '/home/vs/csc2207_project_ws', 'TERM_PROGRAM_VERSION': '1.78.0', 'VSCODE_IPC_HOOK_CLI': '/tmp/vscode-ipc-e6bfca08-fbad-4cec-a404-4996fcb5f50c.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/node', 'COLORTERM': 'truecolor', 'REMOTE_CONTAINERS': 'true', 'WAYLAND_DISPLAY': 'vscode-wayland-604bfbf6-2cff-4de9-bcc9-c693f6d9561f.sock', 'ROS_DISTRO': 'foxy', 'REMOTE_CONTAINERS_IPC': '/tmp/vscode-remote-containers-ipc-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'LIBGL_ALWAYS_INDIRECT': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/vscode/vscode-server/bin/linux-x64/252e5463d60e63238250799aef7375787f68b4ee/bin/remote-cli:/home/vs/.local/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/user/1000', 'REMOTE_CONTAINERS_SOCKETS': '["/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock","/tmp/.X11-unix/X12","/home/vs/.gnupg/S.gpg-agent"]', 'DISPLAY': 'host.docker.internal:0.0', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/tmp/user/1000/vscode-git-a2013720de.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/tmp/vscode-ssh-auth-a37c8b30-f48d-4cf0-bb0c-7fdd047f8486.sock', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'REMOTE_CONTAINERS_DISPLAY_SOCK': '/tmp/.X11-unix/X12', 'SHELL': '/bin/bash', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/vs/csc2207_project_ws/src/build/localization', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/home/vs/csc2207_project_ws/src/build/localization/prefix_override:/home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[19.649594] (-) TimerEvent: {}
+[19.764710] (-) TimerEvent: {}
+[19.866153] (-) TimerEvent: {}
+[19.969471] (-) TimerEvent: {}
+[20.084670] (-) TimerEvent: {}
+[20.194631] (-) TimerEvent: {}
+[20.300936] (-) TimerEvent: {}
+[20.404671] (-) TimerEvent: {}
+[20.514642] (-) TimerEvent: {}
+[20.617611] (-) TimerEvent: {}
+[20.761111] (-) TimerEvent: {}
+[20.866062] (-) TimerEvent: {}
+[21.014622] (-) TimerEvent: {}
+[21.144652] (-) TimerEvent: {}
+[21.254642] (-) TimerEvent: {}
+[21.368577] (-) TimerEvent: {}
+[21.474631] (-) TimerEvent: {}
+[21.584691] (-) TimerEvent: {}
+[21.694658] (-) TimerEvent: {}
+[21.804637] (-) TimerEvent: {}
+[21.914561] (-) TimerEvent: {}
+[22.021388] (-) TimerEvent: {}
+[22.128706] (-) TimerEvent: {}
+[22.230477] (-) TimerEvent: {}
+[22.346145] (-) TimerEvent: {}
+[22.454582] (-) TimerEvent: {}
+[22.556558] (-) TimerEvent: {}
+[22.657837] (-) TimerEvent: {}
+[22.759048] (-) TimerEvent: {}
+[22.864538] (-) TimerEvent: {}
+[22.974624] (-) TimerEvent: {}
+[23.084574] (-) TimerEvent: {}
+[23.185488] (-) TimerEvent: {}
+[23.292543] (-) TimerEvent: {}
+[23.404698] (-) TimerEvent: {}
+[23.517071] (-) TimerEvent: {}
+[23.624568] (-) TimerEvent: {}
+[23.728257] (-) TimerEvent: {}
+[23.831860] (-) TimerEvent: {}
+[23.933858] (-) TimerEvent: {}
+[24.037717] (-) TimerEvent: {}
+[24.145531] (-) TimerEvent: {}
+[24.247294] (-) TimerEvent: {}
+[24.272676] (localization) StdoutLine: {'line': b'running egg_info\n'}
+[24.300696] (localization) StdoutLine: {'line': b'writing ../build/localization/localization.egg-info/PKG-INFO\n'}
+[24.301171] (localization) StdoutLine: {'line': b'writing dependency_links to ../build/localization/localization.egg-info/dependency_links.txt\n'}
+[24.301496] (localization) StdoutLine: {'line': b'writing entry points to ../build/localization/localization.egg-info/entry_points.txt\n'}
+[24.301774] (localization) StdoutLine: {'line': b'writing requirements to ../build/localization/localization.egg-info/requires.txt\n'}
+[24.302032] (localization) StdoutLine: {'line': b'writing top-level names to ../build/localization/localization.egg-info/top_level.txt\n'}
+[24.351299] (-) TimerEvent: {}
+[24.463857] (-) TimerEvent: {}
+[24.563386] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[24.564352] (-) TimerEvent: {}
+[24.636929] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/PKG-INFO\n'}
+[24.643789] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing dependency_links to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/dependency_links.txt\n'}
+[24.651035] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing entry points to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/entry_points.txt\n'}
+[24.651826] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing requirements to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/requires.txt\n'}
+[24.656379] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'writing top-level names to ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/top_level.txt\n'}
+[24.664672] (-) TimerEvent: {}
+[24.794594] (-) TimerEvent: {}
+[24.896210] (-) TimerEvent: {}
+[24.934034] (localization) StdoutLine: {'line': b"reading manifest file '../build/localization/localization.egg-info/SOURCES.txt'\n"}
+[24.944210] (localization) StdoutLine: {'line': b"writing manifest file '../build/localization/localization.egg-info/SOURCES.txt'\n"}
+[24.944900] (localization) StdoutLine: {'line': b'running build\n'}
+[24.945168] (localization) StdoutLine: {'line': b'running build_py\n'}
+[24.945384] (localization) StdoutLine: {'line': b'copying localization/localization.py -> /home/vs/csc2207_project_ws/src/build/localization/build/lib/localization\n'}
+[24.974697] (localization) StdoutLine: {'line': b'running install\n'}
+[24.975506] (localization) StdoutLine: {'line': b'running install_lib\n'}
+[24.996770] (-) TimerEvent: {}
+[25.005616] (localization) StdoutLine: {'line': b'copying /home/vs/csc2207_project_ws/src/build/localization/build/lib/localization/localization.py -> /home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages/localization\n'}
+[25.025713] (localization) StdoutLine: {'line': b'byte-compiling /home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages/localization/localization.py to localization.cpython-38.pyc\n'}
+[25.066345] (localization) StdoutLine: {'line': b'running install_data\n'}
+[25.096911] (localization) StdoutLine: {'line': b'running install_egg_info\n'}
+[25.097485] (-) TimerEvent: {}
+[25.137709] (localization) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[25.174675] (localization) StdoutLine: {'line': b'Copying ../build/localization/localization.egg-info to /home/vs/csc2207_project_ws/src/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info\n'}
+[25.202854] (-) TimerEvent: {}
+[25.206734] (localization) StdoutLine: {'line': b'running install_scripts\n'}
+[25.315730] (-) TimerEvent: {}
+[25.387611] (motion) StdoutLine: {'line': b'running egg_info\n'}
+[25.404802] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"reading manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'\n"}
+[25.432937] (motion) StdoutLine: {'line': b'writing ../build/motion/motion.egg-info/PKG-INFO\n'}
+[25.433691] (-) TimerEvent: {}
+[25.456586] (motion) StdoutLine: {'line': b'writing dependency_links to ../build/motion/motion.egg-info/dependency_links.txt\n'}
+[25.457187] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"writing manifest file '../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'\n"}
+[25.457613] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running build\n'}
+[25.457992] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running build_py\n'}
+[25.458608] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install\n'}
+[25.459119] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_lib\n'}
+[25.459566] (motion) StdoutLine: {'line': b'writing entry points to ../build/motion/motion.egg-info/entry_points.txt\n'}
+[25.484705] (motion) StdoutLine: {'line': b'writing requirements to ../build/motion/motion.egg-info/requires.txt\n'}
+[25.486615] (motion) StdoutLine: {'line': b'writing top-level names to ../build/motion/motion.egg-info/top_level.txt\n'}
+[25.515049] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_data\n'}
+[25.540322] (-) TimerEvent: {}
+[25.548081] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'copying ./models/obstacle_course/model.sdf -> /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/obstacle_course/\n'}
+[25.594781] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[25.635193] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[25.640507] (-) TimerEvent: {}
+[25.659512] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'Copying ../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info\n'}
+[25.695438] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[25.743011] (-) TimerEvent: {}
+[25.800137] (localization) StdoutLine: {'line': b'Installing localization_node script to /home/vs/csc2207_project_ws/src/install/localization/lib/localization\n'}
+[25.806975] (localization) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/src/build/localization/install.log'\n"}
+[25.843068] (-) TimerEvent: {}
+[25.950635] (-) TimerEvent: {}
+[25.969585] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b'Installing spawn_demo script to /home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/warehouse_robot_spawner_pkg\n'}
+[25.979881] (warehouse_robot_spawner_pkg) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log'\n"}
+[26.050838] (-) TimerEvent: {}
+[26.169379] (-) TimerEvent: {}
+[26.241961] (motion) StdoutLine: {'line': b"reading manifest file '../build/motion/motion.egg-info/SOURCES.txt'\n"}
+[26.263445] (localization) CommandEnded: {'returncode': 0}
+[26.265452] (motion) StdoutLine: {'line': b"writing manifest file '../build/motion/motion.egg-info/SOURCES.txt'\n"}
+[26.284842] (-) TimerEvent: {}
+[26.323451] (motion) StdoutLine: {'line': b'running build\n'}
+[26.324214] (motion) StdoutLine: {'line': b'running build_py\n'}
+[26.326858] (motion) StdoutLine: {'line': b'running install\n'}
+[26.332627] (motion) StdoutLine: {'line': b'running install_lib\n'}
+[26.404676] (-) TimerEvent: {}
+[26.405583] (motion) StdoutLine: {'line': b'running install_data\n'}
+[26.406233] (motion) StdoutLine: {'line': b'running install_egg_info\n'}
+[26.422054] (motion) StdoutLine: {'line': b"removing '/home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[26.454686] (motion) StdoutLine: {'line': b'Copying ../build/motion/motion.egg-info to /home/vs/csc2207_project_ws/src/install/motion/lib/python3.8/site-packages/motion-0.0.0-py3.8.egg-info\n'}
+[26.524681] (motion) StdoutLine: {'line': b'running install_scripts\n'}
+[26.525580] (-) TimerEvent: {}
+[26.634702] (-) TimerEvent: {}
+[26.747378] (-) TimerEvent: {}
+[26.855945] (-) TimerEvent: {}
+[26.955376] (motion) StdoutLine: {'line': b'Installing motion_node script to /home/vs/csc2207_project_ws/src/install/motion/lib/motion\n'}
+[26.956376] (-) TimerEvent: {}
+[26.956930] (motion) StdoutLine: {'line': b"writing list of installed files to '/home/vs/csc2207_project_ws/src/build/motion/install.log'\n"}
+[27.109423] (-) TimerEvent: {}
+[27.224638] (-) TimerEvent: {}
+[27.257393] (localization) JobEnded: {'identifier': 'localization', 'rc': 0}
+[27.324682] (warehouse_robot_spawner_pkg) CommandEnded: {'returncode': 0}
+[27.326609] (-) TimerEvent: {}
+[27.475953] (-) TimerEvent: {}
+[27.531586] (warehouse_robot_spawner_pkg) JobEnded: {'identifier': 'warehouse_robot_spawner_pkg', 'rc': 0}
+[27.570189] (motion) CommandEnded: {'returncode': 0}
+[27.614792] (-) TimerEvent: {}
+[27.734624] (-) TimerEvent: {}
+[27.769267] (motion) JobEnded: {'identifier': 'motion', 'rc': 0}
+[27.794544] (-) EventReactorShutdown: {}

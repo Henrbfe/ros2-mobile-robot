@@ -1,0 +1,21 @@
+[2.291s] Invoking command in '/home/vs/csc2207_project_ws/src/localization': PYTHONPATH=/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization build --build-base /home/vs/csc2207_project_ws/build/localization/build install --record /home/vs/csc2207_project_ws/build/localization/install.log --install-scripts $base/lib/localization --single-version-externally-managed
+[3.135s] running egg_info
+[3.137s] writing ../../build/localization/localization.egg-info/PKG-INFO
+[3.138s] writing dependency_links to ../../build/localization/localization.egg-info/dependency_links.txt
+[3.138s] writing entry points to ../../build/localization/localization.egg-info/entry_points.txt
+[3.139s] writing requirements to ../../build/localization/localization.egg-info/requires.txt
+[3.139s] writing top-level names to ../../build/localization/localization.egg-info/top_level.txt
+[3.239s] reading manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[3.241s] writing manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[3.241s] running build
+[3.242s] running build_py
+[3.242s] running install
+[3.244s] running install_lib
+[3.249s] running install_data
+[3.251s] running install_egg_info
+[3.257s] removing '/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info' (and everything under it)
+[3.258s] Copying ../../build/localization/localization.egg-info to /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info
+[3.264s] running install_scripts
+[3.330s] Installing localization_node script to /home/vs/csc2207_project_ws/install/localization/lib/localization
+[3.331s] writing list of installed files to '/home/vs/csc2207_project_ws/build/localization/install.log'
+[3.409s] Invoked command in '/home/vs/csc2207_project_ws/src/localization' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization build --build-base /home/vs/csc2207_project_ws/build/localization/build install --record /home/vs/csc2207_project_ws/build/localization/install.log --install-scripts $base/lib/localization --single-version-externally-managed

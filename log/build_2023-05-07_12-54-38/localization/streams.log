@@ -1,0 +1,29 @@
+[15.097s] Invoking command in '/home/vs/csc2207_project_ws/src/localization': PYTHONPATH=/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization build --build-base /home/vs/csc2207_project_ws/build/localization/build install --record /home/vs/csc2207_project_ws/build/localization/install.log --install-scripts $base/lib/localization --single-version-externally-managed
+[20.244s] running egg_info
+[20.245s] writing ../../build/localization/localization.egg-info/PKG-INFO
+[20.245s] writing dependency_links to ../../build/localization/localization.egg-info/dependency_links.txt
+[20.245s] writing entry points to ../../build/localization/localization.egg-info/entry_points.txt
+[20.246s] writing requirements to ../../build/localization/localization.egg-info/requires.txt
+[20.246s] writing top-level names to ../../build/localization/localization.egg-info/top_level.txt
+[21.294s] reading manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[21.333s] writing manifest file '../../build/localization/localization.egg-info/SOURCES.txt'
+[21.334s] running build
+[21.334s] running build_py
+[21.334s] copying localization/localization.py -> /home/vs/csc2207_project_ws/build/localization/build/lib/localization
+[21.335s] running install
+[21.379s] running install_lib
+[21.389s] copying /home/vs/csc2207_project_ws/build/localization/build/lib/localization/localization.py -> /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization
+[21.406s] byte-compiling /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization/localization.py to localization.cpython-38.pyc
+[21.447s]   File "/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization/localization.py", line 13
+[21.448s]     'y' : [0.25, 0.35]
+[21.448s]     ^
+[21.448s] SyntaxError: invalid syntax
+[21.449s] 
+[21.449s] running install_data
+[21.449s] running install_egg_info
+[21.501s] removing '/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info' (and everything under it)
+[21.549s] Copying ../../build/localization/localization.egg-info to /home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages/localization-0.0.0-py3.8.egg-info
+[21.583s] running install_scripts
+[21.986s] Installing localization_node script to /home/vs/csc2207_project_ws/install/localization/lib/localization
+[21.987s] writing list of installed files to '/home/vs/csc2207_project_ws/build/localization/install.log'
+[22.949s] Invoked command in '/home/vs/csc2207_project_ws/src/localization' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/build/localization/prefix_override:/home/vs/csc2207_project_ws/install/localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization build --build-base /home/vs/csc2207_project_ws/build/localization/build install --record /home/vs/csc2207_project_ws/build/localization/install.log --install-scripts $base/lib/localization --single-version-externally-managed

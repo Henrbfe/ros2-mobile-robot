@@ -1,0 +1,132 @@
+[1.589s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--packages-select', 'warehouse_robot_spawner_pkg']
+[1.589s] DEBUG:colcon:Parsed command line arguments: Namespace(ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=None, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f52091fb490>>, merge_install=False, metas=['./colcon.meta'], mixin=None, mixin_files=None, mixin_verb=('build',), packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=['warehouse_robot_spawner_pkg'], packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=8, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f52091fb490>, verb_name='build', verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x7f52091fbaf0>)
+[1.769s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.770s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.770s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.771s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.771s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[1.772s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.772s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/vs/csc2207_project_ws/src'
+[1.773s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[1.774s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[1.774s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[1.775s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[1.775s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[1.778s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[1.779s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[1.779s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[1.779s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[2.026s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[2.026s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[2.026s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[2.027s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[2.027s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[2.027s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[2.028s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[2.028s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[2.042s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[2.043s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[2.043s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[2.043s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extensions ['ignore', 'ignore_ament_install']
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extension 'ignore'
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extension 'ignore_ament_install'
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extensions ['colcon_pkg']
+[2.044s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extension 'colcon_pkg'
+[2.045s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extensions ['colcon_meta']
+[2.045s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extension 'colcon_meta'
+[2.045s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extensions ['ros']
+[2.045s] Level 1:colcon.colcon_core.package_identification:_identify(localization) by extension 'ros'
+[2.084s] DEBUG:colcon.colcon_core.package_identification:Package 'localization' with type 'ros.ament_python' and name 'localization'
+[2.086s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[2.086s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[2.086s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[2.087s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extensions ['ignore', 'ignore_ament_install']
+[2.087s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extension 'ignore'
+[2.088s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extension 'ignore_ament_install'
+[2.088s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extensions ['colcon_pkg']
+[2.088s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extension 'colcon_pkg'
+[2.088s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extensions ['colcon_meta']
+[2.088s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extension 'colcon_meta'
+[2.102s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extensions ['ros']
+[2.103s] Level 1:colcon.colcon_core.package_identification:_identify(motion) by extension 'ros'
+[2.105s] DEBUG:colcon.colcon_core.package_identification:Package 'motion' with type 'ros.ament_python' and name 'motion'
+[2.105s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extensions ['ignore', 'ignore_ament_install']
+[2.106s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extension 'ignore'
+[2.107s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extension 'ignore_ament_install'
+[2.107s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extensions ['colcon_pkg']
+[2.107s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extension 'colcon_pkg'
+[2.107s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extensions ['colcon_meta']
+[2.107s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extension 'colcon_meta'
+[2.107s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extensions ['ros']
+[2.108s] Level 1:colcon.colcon_core.package_identification:_identify(warehouse_robot_spawner_pkg) by extension 'ros'
+[2.109s] DEBUG:colcon.colcon_core.package_identification:Package 'warehouse_robot_spawner_pkg' with type 'ros.ament_python' and name 'warehouse_robot_spawner_pkg'
+[2.109s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[2.109s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[2.110s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[2.110s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[2.110s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[2.428s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'localization' in 'localization'
+[2.429s] INFO:colcon.colcon_core.package_selection:Skipping not selected package 'motion' in 'motion'
+[2.462s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'cmake_args' from command line to 'None'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'cmake_target' from command line to 'None'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'cmake_clean_cache' from command line to 'False'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'cmake_clean_first' from command line to 'False'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'cmake_force_configure' from command line to 'False'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'ament_cmake_args' from command line to 'None'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'catkin_cmake_args' from command line to 'None'
+[2.463s] Level 5:colcon.colcon_core.verb:set package 'warehouse_robot_spawner_pkg' build argument 'catkin_skip_building_tests' from command line to 'False'
+[2.463s] DEBUG:colcon.colcon_core.verb:Building package 'warehouse_robot_spawner_pkg' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg', 'merge_install': False, 'path': '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg', 'symlink_install': False, 'test_result_base': None}
+[2.466s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[2.574s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[2.577s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg' with build type 'ament_python'
+[2.578s] Level 1:colcon.colcon_core.shell:create_environment_hook('warehouse_robot_spawner_pkg', 'ament_prefix_path')
+[2.648s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[2.666s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/hook/ament_prefix_path.ps1'
+[2.669s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/hook/ament_prefix_path.dsv'
+[2.673s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/hook/ament_prefix_path.sh'
+[2.708s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[2.710s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[4.786s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg'
+[4.799s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[4.800s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[8.411s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/warehouse_robot_spawner_pkg build --build-base /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build install --record /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log --install-scripts $base/lib/warehouse_robot_spawner_pkg --single-version-externally-managed
+[11.276s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/vs/csc2207_project_ws/src/warehouse_robot_spawner_pkg' returned '0': PYTHONPATH=/home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/prefix_override:/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/warehouse_robot_spawner_pkg build --build-base /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/build install --record /home/vs/csc2207_project_ws/src/build/warehouse_robot_spawner_pkg/install.log --install-scripts $base/lib/warehouse_robot_spawner_pkg --single-version-externally-managed
+[11.310s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg' for CMake module files
+[11.312s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg' for CMake config files
+[11.316s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib'
+[11.317s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/bin'
+[11.318s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/pkgconfig/warehouse_robot_spawner_pkg.pc'
+[11.320s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages'
+[11.320s] Level 1:colcon.colcon_core.shell:create_environment_hook('warehouse_robot_spawner_pkg', 'pythonpath')
+[11.329s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/hook/pythonpath.ps1'
+[11.334s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/hook/pythonpath.dsv'
+[11.338s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/hook/pythonpath.sh'
+[11.346s] Level 1:colcon.colcon_core.environment:checking '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/bin'
+[11.348s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(warehouse_robot_spawner_pkg)
+[11.371s] INFO:colcon.colcon_core.shell:Creating package script '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/package.ps1'
+[11.386s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/package.dsv'
+[11.392s] INFO:colcon.colcon_core.shell:Creating package script '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/package.sh'
+[11.397s] INFO:colcon.colcon_core.shell:Creating package script '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/package.bash'
+[11.403s] INFO:colcon.colcon_core.shell:Creating package script '/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/package.zsh'
+[11.407s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/vs/csc2207_project_ws/src/install/warehouse_robot_spawner_pkg/share/colcon-core/packages/warehouse_robot_spawner_pkg)
+[11.413s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[11.415s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[11.415s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[11.417s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[11.454s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[11.456s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[11.459s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[11.460s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[11.621s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[11.623s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[11.637s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vs/csc2207_project_ws/src/install/local_setup.ps1'
+[11.649s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/vs/csc2207_project_ws/src/install/_local_setup_util_ps1.py'
+[11.656s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vs/csc2207_project_ws/src/install/setup.ps1'
+[11.673s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vs/csc2207_project_ws/src/install/local_setup.sh'
+[11.676s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/vs/csc2207_project_ws/src/install/_local_setup_util_sh.py'
+[11.684s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vs/csc2207_project_ws/src/install/setup.sh'
+[11.696s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vs/csc2207_project_ws/src/install/local_setup.bash'
+[11.710s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vs/csc2207_project_ws/src/install/setup.bash'
+[11.728s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vs/csc2207_project_ws/src/install/local_setup.zsh'
+[11.731s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vs/csc2207_project_ws/src/install/setup.zsh'
